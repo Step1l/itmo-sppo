@@ -1,3 +1,6 @@
 [submodule "Прога/Proga1"]
 	path = Прога/Proga1
 	url = https://github.com/Step1l/Proga1
+[submodule "Прога/porg2"]
+	path = Прога/porg2
+	url = https://github.com/Step1l/porg2
